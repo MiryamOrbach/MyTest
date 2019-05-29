@@ -1,0 +1,56 @@
+[{ 
+    "id":1,
+    "question":"5*6",
+    "answers":[{"id":1,"answer":"20"},{"id":2,"answer":"30"},{"id":3,"answer":"35"}],
+    "rightAnswer":2
+},
+{ 
+    "id":2,
+    "question":"3*7",
+    "answers":[{"id":1,"answer":"21"},{"id":2,"answer":"12"},{"id":3,"answer":"18"}],
+    "rightAnswer":1
+},{ 
+    "id":3,
+    "question":"6*8",
+    "answers":[{"id":1,"answer":"47"},{"id":2,"answer":"49"},{"id":3,"answer":"48"}],
+    "rightAnswer":3
+},
+{ 
+    "id":4,
+    "question":"2*9",
+    "answers":[{"id":1,"answer":"11"},{"id":2,"answer":"27"},{"id":3,"answer":"18"}],
+    "rightAnswer":3
+},{ 
+    "id":5,
+    "question":"4*4",
+    "answers":[{"id":1,"answer":"16"},{"id":2,"answer":"18"},{"id":3,"answer":"12"}],
+    "rightAnswer":1
+},
+{ 
+    "id":6,
+    "question":"3*10",
+    "answers":[{"id":1,"answer":"33"},{"id":2,"answer":"30"},{"id":3,"answer":"31"}],
+    "rightAnswer":2
+},{ 
+    "id":7,
+    "question":"1*8",
+    "answers":[{"id":1,"answer":"8"},{"id":2,"answer":"1"},{"id":3,"answer":"18"}],
+    "rightAnswer":1
+},
+{ 
+    "id":8,
+    "question":"0*100",
+    "answers":[{"id":1,"answer":"100"},{"id":2,"answer":"0"},{"id":3,"answer":"10"}],
+    "rightAnswer":2
+},{ 
+    "id":9,
+    "question":"3*2",
+    "answers":[{"id":1,"answer":"3"},{"id":2,"answer":"2"},{"id":3,"answer":"6"}],
+    "rightAnswer":3
+},
+{ 
+    "id":10,
+    "question":"5*5",
+    "answers":[{"id":1,"answer":"20"},{"id":2,"answer":"25"},{"id":3,"answer":"30"}],
+    "rightAnswer":2
+}]

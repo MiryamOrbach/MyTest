@@ -1,0 +1,13 @@
+<div class="quiz" *ngIf="currentQuestion">
+    <h1>Quiz</h1>
+    <div>
+        <h2>{{currentQuestion.question}}</h2>
+    </div>
+    <div *ngFor="let answer of currentQuestion.answers">
+        <input id="answer{{answer.id}}" [value]='answer.id' type="radio" [(ngModel)]="currentQuestion.userChoose"> {{answer.answer}}
+    </div>
+  
+</div>
+<button class="btn btn-default prev"  value="prev" [disabled]="currentQuestion.id==1" (click)="prev()">prev</button>
+<button class="btn btn-default next"  value="next " [disabled]="isShowMark" (click)="next()">{{value}}</button>
+<div *ngIf="isShowMark" class="mark">{{mark}}</div>

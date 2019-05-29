@@ -1,0 +1,20 @@
+.mark{
+    color:red;
+    font-size: 64px;
+    background-color:white !important;
+    margin-left: 35%;
+    }
+    .quiz{
+        margin: 5% 34%;
+    }
+    h1{
+        color: red;
+    }
+    .prev{
+    width: 20%;
+    margin-left: 20%;
+    }
+    .next{
+    width: 20%;
+    margin-left: 1%;
+    }
